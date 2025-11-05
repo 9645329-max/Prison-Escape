@@ -1,5 +1,5 @@
 # Prison Escape
 
 Team Members: <br>
--Torr Hardin <br>
--Janame Lindberg
+- Torr Hardin <br>
+- Janame Lindberg
