@@ -3,4 +3,6 @@ Prison escape is a game where you try to escape from a prison whilst avoiding th
 <br>
 Team Members: <br>
 - Torr Hardin, Group Leader, Coder, Sound Design <br>
-- Janame Lindberg, Graphic Designer, Coder
+- Janame Lindberg, Graphic Designer, Coder <br>
+  <br>
+  ![Prison Mockup]([https://github.com/9645329-max/portfolio/blob/main/images/Gameplay.png](https://github.com/9645329-max/Game-Dev-Project/blob/main/images/Prison%20Escape%20Diagram.drawio.png))
