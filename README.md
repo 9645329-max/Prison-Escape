@@ -20,6 +20,6 @@ Very basic version of the game playable with all game aspects done <br>
 Dec 5th <br>
 Better versions of the game focusing on quality and replayability <br>
 Dec 10th <br>
-Same thing <br>
+More fixing and improving the game <br>
 Dec 19th <br>
 Finishing anything that is low quality and polishing the game  <br>
