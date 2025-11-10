@@ -5,7 +5,7 @@ Team Members: <br>
 - Torr Hardin, Group Leader, Coder, Sound Design <br>
 - Janame Lindberg, Graphic Designer, Coder <br>
   <br>
-  <br>
+  
 
   
 Diagram of Game Features: <br>
